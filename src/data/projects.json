@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/blog-website.png",
+    "description": "This is a project made for create blog website using react+vite.",
+    "skills": ["React", "Express", "Node", "vite"],
+    "demo": "https://www.abhishek.kamati.com.np",
+    "source": "https://github.com/Abhishek3423/Mern-Blog-website"
+  }
+]
