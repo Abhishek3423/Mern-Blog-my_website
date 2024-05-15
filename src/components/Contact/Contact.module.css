@@ -60,7 +60,6 @@
 
   .links {
     align-items: center;
-    /* flex-wrap: wrap; */
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 }
